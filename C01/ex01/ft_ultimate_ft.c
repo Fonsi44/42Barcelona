@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_ultimate_ft.c                                   :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: fonsi <fonsi@student.42.fr>                +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/02/18 20:06:37 by fonsi             #+#    #+#             */
-/*   Updated: 2023/02/18 20:06:38 by fonsi            ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include <stdio.h>
 
 // Función que recibe un puntero a un puntero a un puntero a un puntero a un puntero a un puntero a un puntero a un puntero a un puntero a un entero.
